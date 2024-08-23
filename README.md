@@ -1,6 +1,7 @@
 # Credit_Risk_Classification
 
 An overview of the analysis: Explain the purpose of this analysis.
+
 The goal was to predict the status of a loan ( if it was healthy or unhealthy) based on the data used to train the model.
 
 The results: Using a bulleted list, describe the accuracy score, the precision score, and recall score of the machine learning model.
